@@ -1,5 +1,9 @@
 # Building Agentic AI Application In Snowflake
 
+## Demo
+Feel free to try asking question about Biking and Skiing: https://shorturl.at/jEKAO
+UI Powered by Streamlit
+
 ## Overview
 
 In this guide, you'll learn how to build a Data Agent using Snowflake Cortex AI that can intelligently respond to questions by reasoning over both structured and unstructured data.
